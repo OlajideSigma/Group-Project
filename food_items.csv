@@ -1,0 +1,28 @@
+Name,Price,Stock,ImagePath,Description
+Vegetable Soup,2.00,10,src/Food/Screenshot 2025-03-13 144813 - Copy.png,A hearty soup made with fresh vegetables.
+Avocado Toast,4.50,5,src/Food/Screenshot 2025-03-22 000200 - Copy.png,Smashed avocado on whole-grain toast.
+Eggplant Parmesan,6.75,8,src/Food/Screenshot 2025-03-13 144836 - Copy.png,Baked eggplant with marinara and cheese.
+Margherita Pizza,8.50,7,src/Food/Screenshot 2025-03-22 202940 - Copy.png,Classic pizza with tomato, mozzarella, and basil.
+Caesar Salad,5.75,12,src/Food/Screenshot 2025-03-22 203010 - Copy.png,Crisp romaine lettuce with croutons and Caesar dressing.
+Greek Yogurt Parfait,3.25,15,src/Food/Screenshot 2025-03-13 144847 - Copy.png,Layered yogurt with granola and fresh fruits.
+Pasta Carbonara,7.50,6,src/Food/Screenshot 2025-03-22 203150 - Copy.png,Creamy pasta with eggs, cheese, and pancetta.
+Cheesecake,4.00,10,src/Food/Screenshot 2025-03-22 203214 - Copy.png,Rich and creamy classic cheesecake.
+Tiramisu,5.00,8,src/Food/Screenshot 2025-03-22 203237-Copy.png,Italian dessert with coffee-soaked ladyfingers and mascarpone.
+Fruit Salad,3.50,20,src/Food/Screenshot 2025-03-22 203301 - Copy.png,A refreshing mix of seasonal fruits.
+Grilled Chicken Salad,8.50,10,src/Food/Screenshot 2025-03-22 203322 - Copy.png,Grilled chicken breast on a bed of fresh greens.
+Baked Salmon,12.00,8,src/Food/Screenshot 2025-03-22 000239 - Copy.png,Oven-baked salmon with herbs and lemon.
+Chicken Noodle Casserole,9.00,12,src/Food/Screenshot 2025-03-22 203552 - Copy.png,Comforting casserole with chicken and noodles.
+Quinoa Salad,7.50,10,src/Food/Screenshot 2025-03-22 000356 - Copy.png,Healthy salad with quinoa, vegetables, and vinaigrette.
+Turkey Sandwich,6.50,10,src/Food/Screenshot 2025-03-13 144910 - Copy.png,Sliced turkey with lettuce, tomato, and mayo on whole-grain bread.
+Minestrone Soup,5.50,15,src/Food/Screenshot 2025-03-13 144901 - Copy.png,Italian vegetable soup with pasta and beans.
+Baked Cod Fish,11.00,8,src/Food/Screenshot 2025-03-22 203629 - Copy.png,Oven-baked cod with a light herb crust.
+Vegetarian Wrap,7.00,10,src/Food/Screenshot 2025-03-22 000319 - Copy.png,Wrap filled with fresh vegetables and hummus.
+Grilled Vegetable Platter,9.50,10,src/Food/Screenshot 2025-03-22 000354 - Copy.png,Assorted grilled vegetables with a balsamic glaze.
+Chicken Caesar Salad,8.50,10,src/Food/Screenshot 2025-03-22 0 - Copy.png,Classic Caesar salad with grilled chicken.
+Tomato Basil Panini,6.50,10,src/Food/Screenshot 2025-03-13 144827 - Copy.png,Grilled panini with tomato, basil, and mozzarella.
+Salmon Teriyaki Bowl,12.50,8,src/Food/Screenshot 2025-03-22 0003554 - Copy.png,Grilled salmon with teriyaki sauce over rice.
+Egg Salad Sandwich,5.50,10,src/Food/Screenshot 2025-03-22 00043 - Copy.png,Creamy egg salad on whole-grain bread.
+Spinach and Feta Wrap,7.50,10,src/Food/Screenshot 2025-03-22 000354 - Copy.png,Wrap filled with spinach, feta, and olives.
+Shrimp and Avocado Salad,11.00,8,src/Food/Screenshot 2025-03-22  - Copy.png,Salad with shrimp, avocado, and citrus dressing.
+Spicy Tofu Stir-Fry,9.50,10,src/Food/Screenshot 2025-03-13 144926 - Copy.png,Stir-fried tofu with spicy sauce and vegetables.
+Sweet and Sour Tofu,9.00,10,src/Food/Screenshot 2025-03-13 144926 - Copy.png,Tofu stir-fried in sweet and sour sauce.
